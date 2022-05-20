@@ -1,0 +1,5 @@
+python-dotenv
+discord
+requests_html
+nest_asyncio
+telethon
